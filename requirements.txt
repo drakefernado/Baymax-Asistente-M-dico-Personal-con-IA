@@ -1,0 +1,6 @@
+elevenlabs
+SpeechRecognition
+requests
+groq
+sounddevice
+numpy
