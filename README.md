@@ -21,7 +21,7 @@ Baymax es un asistente de voz con inteligencia artificial inspirado en el person
 ## ✅ Requisitos
 
 ### Hardware
-- **Arduino con soporte para App Lab** (ej. Arduino Portenta, Opta, o compatible)
+- **Arduino Uno Q (Cualquiera de las dos variantes)
 - **Micrófono USB** — usado como entrada de audio (en este proyecto: WEB CAM `hw:0,0`)
 - **Parlante o altavoz USB** — usado como salida de audio (en este proyecto: `USB-Audio-1.0`, device 11)
 - **Conexión a Internet** — requerida para las APIs de IA
